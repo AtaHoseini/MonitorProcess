@@ -1,0 +1,17 @@
+E:\Users\Agah\Desktop\monitor\Monitoring\bin\Debug\net5.0\Monitoring.exe
+E:\Users\Agah\Desktop\monitor\Monitoring\bin\Debug\net5.0\Monitoring.deps.json
+E:\Users\Agah\Desktop\monitor\Monitoring\bin\Debug\net5.0\Monitoring.runtimeconfig.json
+E:\Users\Agah\Desktop\monitor\Monitoring\bin\Debug\net5.0\Monitoring.runtimeconfig.dev.json
+E:\Users\Agah\Desktop\monitor\Monitoring\bin\Debug\net5.0\Monitoring.dll
+E:\Users\Agah\Desktop\monitor\Monitoring\bin\Debug\net5.0\ref\Monitoring.dll
+E:\Users\Agah\Desktop\monitor\Monitoring\bin\Debug\net5.0\Monitoring.pdb
+E:\Users\Agah\Desktop\monitor\Monitoring\obj\Debug\net5.0\Monitoring.csprojAssemblyReference.cache
+E:\Users\Agah\Desktop\monitor\Monitoring\obj\Debug\net5.0\Monitoring.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\Agah\Desktop\monitor\Monitoring\obj\Debug\net5.0\Monitoring.AssemblyInfoInputs.cache
+E:\Users\Agah\Desktop\monitor\Monitoring\obj\Debug\net5.0\Monitoring.AssemblyInfo.cs
+E:\Users\Agah\Desktop\monitor\Monitoring\obj\Debug\net5.0\Monitoring.csproj.CoreCompileInputs.cache
+E:\Users\Agah\Desktop\monitor\Monitoring\obj\Debug\net5.0\Monitoring.dll
+E:\Users\Agah\Desktop\monitor\Monitoring\obj\Debug\net5.0\ref\Monitoring.dll
+E:\Users\Agah\Desktop\monitor\Monitoring\obj\Debug\net5.0\Monitoring.pdb
+E:\Users\Agah\Desktop\monitor\Monitoring\obj\Debug\net5.0\Monitoring.genruntimeconfig.cache
+C:\Users\ADH\source\repos\Monitor\Agah\monitor\Monitoring\obj\Debug\net5.0\Monitoring.pdb

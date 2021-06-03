@@ -1,0 +1,16 @@
+C:\Users\ADH\source\repos\Monitor\Agah\monitor\Monitoring\bin\Debug\net48\monitor.exe.config
+C:\Users\ADH\source\repos\Monitor\Agah\monitor\Monitoring\bin\Debug\net48\monitor.exe
+C:\Users\ADH\source\repos\Monitor\Agah\monitor\Monitoring\bin\Debug\net48\monitor.pdb
+C:\Users\ADH\source\repos\Monitor\Agah\monitor\Monitoring\obj\Debug\net48\monitor.AssemblyInfoInputs.cache
+C:\Users\ADH\source\repos\Monitor\Agah\monitor\Monitoring\obj\Debug\net48\monitor.AssemblyInfo.cs
+C:\Users\ADH\source\repos\Monitor\Agah\monitor\Monitoring\obj\Debug\net48\monitor.csproj.CoreCompileInputs.cache
+C:\Users\ADH\source\repos\Monitor\Agah\monitor\Monitoring\obj\Debug\net48\monitor.exe
+C:\Users\ADH\source\repos\Monitor\Agah\monitor\Monitoring\obj\Debug\net48\monitor.pdb
+C:\Users\ADH\source\repos\Monitor\Agah\monitor\monitor\bin\Debug\net48\monitor.exe.config
+C:\Users\ADH\source\repos\Monitor\Agah\monitor\monitor\bin\Debug\net48\monitor.exe
+C:\Users\ADH\source\repos\Monitor\Agah\monitor\monitor\bin\Debug\net48\monitor.pdb
+C:\Users\ADH\source\repos\Monitor\Agah\monitor\monitor\obj\Debug\net48\monitor.AssemblyInfoInputs.cache
+C:\Users\ADH\source\repos\Monitor\Agah\monitor\monitor\obj\Debug\net48\monitor.AssemblyInfo.cs
+C:\Users\ADH\source\repos\Monitor\Agah\monitor\monitor\obj\Debug\net48\monitor.csproj.CoreCompileInputs.cache
+C:\Users\ADH\source\repos\Monitor\Agah\monitor\monitor\obj\Debug\net48\monitor.exe
+C:\Users\ADH\source\repos\Monitor\Agah\monitor\monitor\obj\Debug\net48\monitor.pdb
